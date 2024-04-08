@@ -8,7 +8,8 @@ trends, artist effectiveness, artist growth, customer interest and money spent b
 
 The goal of the project is to answer a set of questions about the store's business performance and help in its growth by making 
 better decisions.
-
+## Schema Diagram
+![schema_diagram](https://github.com/RjCricket/Music-Data-Analysis/assets/118374392/2154909e-795f-4fe0-98c7-78d4a1d0ab12)
 ###  Queries of the project:
 
 Q1: Who is the senior most employee based on the job title?
